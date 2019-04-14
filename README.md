@@ -9,6 +9,7 @@ This is list of my public speakings and blog posts.
 * blog post
 
 ## 2019
+### April
 * **Clean Code in Android** - [Women Techmakers Ankara 2019](https://www.wtm.gdgankara.org/) [Presentation](https://docs.google.com/presentation/d/1xmOV7_bv4E8YSBuNaQcUWffR3IgNb5AS05o9JV18KWM/edit?usp=sharing)
 
 ## 2018
