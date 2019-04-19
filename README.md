@@ -10,6 +10,7 @@ This is list of my public speakings and blog posts.
 
 ## 2019
 ### April
+* **Guide to Trendyol Android App Unit Testing.** - [A Blogpost on Trendyol Tech Publication](https://medium.com/trendyol-tech/guide-to-trendyol-android-app-unit-testing-b4beebb5665b)
 * **Clean Code in Android** - [Women Techmakers Ankara 2019](https://www.wtm.gdgankara.org/) [Presentation](https://docs.google.com/presentation/d/1xmOV7_bv4E8YSBuNaQcUWffR3IgNb5AS05o9JV18KWM/edit?usp=sharing)
 
 ## 2018
