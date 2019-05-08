@@ -9,6 +9,9 @@ This is list of my public speakings and blog posts.
 * blog post
 
 ## 2019
+### May
+* **Guide to Trendyol Android App Architecture** - [Trendyol Tech Meetup May'19](https://www.meetup.com/trendyol/events/260694180/) [Presentation](https://drive.google.com/file/d/18Pjawfxf1JU7E1sP5GcAPpJUA-vY_Rmp/view?usp=sharing)
+
 ### April
 * **Guide to Trendyol Android App Unit Testing.** - [A Blogpost on Trendyol Tech Publication](https://medium.com/trendyol-tech/guide-to-trendyol-android-app-unit-testing-b4beebb5665b)
 * **Clean Code in Android** - [Women Techmakers Ankara 2019](https://www.wtm.gdgankara.org/) [Presentation](https://docs.google.com/presentation/d/1xmOV7_bv4E8YSBuNaQcUWffR3IgNb5AS05o9JV18KWM/edit?usp=sharing)
