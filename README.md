@@ -9,6 +9,11 @@ This is list of my public speakings and blog posts.
 * blog post
 
 ## 2019
+### July
+* **Project X** - [Source Code On Github](https://github.com/muratcanbur/ProjectX)
+
+* **A Sample Project for your Android Interview Assignment** - [A Blogpost on Medium](https://medium.com/@muratcanbur/a-sample-project-for-your-android-interview-assignment-324783e0160f)
+
 ### May
 * **Guide to Trendyol Android App Architecture** - [Trendyol Tech Meetup May'19](https://www.meetup.com/trendyol/events/260694180/) [Presentation](https://drive.google.com/file/d/18Pjawfxf1JU7E1sP5GcAPpJUA-vY_Rmp/view?usp=sharing)
 
