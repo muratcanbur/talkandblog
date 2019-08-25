@@ -9,6 +9,8 @@ This is list of my public speakings and blog posts.
 * blog post
 
 ## 2019
+### August
+* **Kotlin,Android,Unit Testing** - [Kotlin/Everywhere Istanbul](https://gdg.ist/kotlin-everywhere) [Presentation](https://drive.google.com/file/d/1gnxyyCBuWKN4imFX2zb7yWzAfuu_e7t_/view?usp=sharing)
 ### July
 * **Project X** - [Source Code On Github](https://github.com/muratcanbur/ProjectX)
 
