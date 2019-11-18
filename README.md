@@ -9,6 +9,9 @@ This is list of my public speakings and blog posts.
 * blog post
 
 ## 2019
+### November
+* **Unit Testing For Android** - [GDG DevFest Ankara 19'](https://www.meetup.com/tr-TR/GDGAnkara/events/265525906/)  [Presentation](https://drive.google.com/drive/u/0/folders/0B5QtBP0zZFtpVkRWd09jU0VTaDQ)
+
 ### October
 * **Unit Test your LiveData and ViewModel** - [A Blogpost on Medium](https://medium.com/@muratcanbur/unit-test-your-livedata-and-viewmodel-3b224f71e981)
 
