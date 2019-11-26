@@ -10,6 +10,7 @@ This is list of my public speakings and blog posts.
 
 ## 2019
 ### November
+* **Unit Testing For Android** - [GDG DevFest Istanbul Season 2019](https://devfest.istanbul/)  [Presentation](https://drive.google.com/drive/folders/0B5QtBP0zZFtpVkRWd09jU0VTaDQ)
 * **Unit Testing For Android** - [GDG DevFest Ankara 19'](https://www.meetup.com/tr-TR/GDGAnkara/events/265525906/)  [Presentation](https://drive.google.com/drive/u/0/folders/0B5QtBP0zZFtpVkRWd09jU0VTaDQ)
 
 ### October
